@@ -1,0 +1,16 @@
+{
+  "name": "@cookie/cli-tools",
+  "version": "0.1.0",
+  "main": "dist/index.js",
+  "type": "types/index.d.ts",
+  "repository": "https://github.com/tony-tsx/cookie-cli-tools.git",
+  "author": "tony-tsx <tony.js@zoho.eu>",
+  "license": "MIT",
+  "devDependencies": {
+    "@cookie/eslint-config": "https://github.com/tony-tsx/cookie-eslint-config.git",
+    "typescript": "^3.7.5"
+  },
+  "dependencies": {
+    "chalk": "^3.0.0"
+  }
+}
